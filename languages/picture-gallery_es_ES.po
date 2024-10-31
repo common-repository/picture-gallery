@@ -1,0 +1,590 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VideoWhisper Picture Gallery\n"
+"Language-Team: VideoWhisper.com <submit.ticket@videowhisper.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: VideoWhisper.com <submit.ticket@videowhisper.com>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es_ES\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: picture-gallery.php:56 picture-gallery.php:70 picture-gallery.php:78
+msgid "Pictures"
+msgstr "Imágenes"
+
+#: picture-gallery.php:57
+#, fuzzy
+msgid "Parent Picture:"
+msgstr "Foto del padre:"
+
+#: picture-gallery.php:58
+#, fuzzy
+msgid "All Pictures"
+msgstr "Todas las fotos"
+
+#: picture-gallery.php:59
+#, fuzzy
+msgid "View Picture"
+msgstr "Ver imagen"
+
+#: picture-gallery.php:60
+#, fuzzy
+msgid "Add New Picture"
+msgstr "Agregar nueva imagen"
+
+#: picture-gallery.php:61
+#, fuzzy
+msgid "New Picture"
+msgstr "Nueva imagen"
+
+#: picture-gallery.php:62
+msgid "Edit Picture"
+msgstr "Editar Imagen"
+
+#: picture-gallery.php:63 picture-gallery.php:2896
+#, fuzzy
+msgid "Update Picture"
+msgstr "Actualizar imagen"
+
+#: picture-gallery.php:64
+#, fuzzy
+msgid "Search Pictures"
+msgstr "Buscar imágenes"
+
+#: picture-gallery.php:65
+#, fuzzy
+msgid "No Pictures found"
+msgstr "No se han encontrado imágenes"
+
+#: picture-gallery.php:66
+#, fuzzy
+msgid "No Pictures found in Trash"
+msgstr "No se han encontrado imágenes en la Papelera"
+
+#: picture-gallery.php:69
+#, fuzzy
+msgid "New picture added"
+msgstr "Nueva imagen añadida"
+
+#: picture-gallery.php:71
+#, fuzzy, php-format
+msgid "%1$s added a new <a href=\"%2$s\">picture</a>"
+msgstr "%1$s Se ha agregado una nueva <a href=\"%2$s\">imagen</a>"
+
+#: picture-gallery.php:72
+#, fuzzy, php-format
+msgid "%1$s added a new <a href=\"%2$s\">picture</a>, on the site %3$s"
+msgstr "%1$s añadida una nueva <a href=\"%2$s\">imagen</a>, en el sitio %3$s"
+
+#: picture-gallery.php:77
+msgid "picture"
+msgstr "imagen"
+
+#: picture-gallery.php:115
+msgid "Search Galleries"
+msgstr "Buscar galerías"
+
+#: picture-gallery.php:116
+msgid "All Galleries"
+msgstr "Todas las Galerias"
+
+#: picture-gallery.php:117
+msgid "Parent Gallery"
+msgstr "Galería de Imágenes"
+
+#: picture-gallery.php:118
+msgid "Parent Gallery:"
+msgstr "Galería de Padres:"
+
+#: picture-gallery.php:119
+msgid "Edit Gallery"
+msgstr "Editar galería"
+
+#: picture-gallery.php:120
+msgid "Update Gallery"
+msgstr "Actualizar Galería"
+
+#: picture-gallery.php:121
+msgid "Add New Gallery"
+msgstr "Añadir nueva galería"
+
+#: picture-gallery.php:122
+#, fuzzy
+msgid "New Gallery Name"
+msgstr "Nuevo nombre de la galería"
+
+#: picture-gallery.php:123
+msgid "Galleries"
+msgstr "Galerías"
+
+#: picture-gallery.php:368
+msgid "Add Plugins"
+msgstr "Agregar complementos"
+
+#: picture-gallery.php:377
+msgid "Contact Support"
+msgstr "Contactar Soporte"
+
+#: picture-gallery.php:398 picture-gallery.php:488
+msgid "Settings"
+msgstr "Configuraciones"
+
+#: picture-gallery.php:407
+msgid "Upload"
+msgstr "Subir"
+
+#: picture-gallery.php:416
+msgid "Import"
+msgstr "Importar"
+
+#: picture-gallery.php:425
+msgid "Manage"
+msgstr "Gestionar"
+
+#: picture-gallery.php:434
+msgid "Documentation"
+msgstr "Documentación"
+
+#: picture-gallery.php:443
+#, fuzzy
+msgid "Discuss WP Plugin"
+msgstr "Comenta WP Plugin"
+
+#: picture-gallery.php:452
+#, fuzzy
+msgid "Review WP Plugin"
+msgstr "Revisar WP Plugin"
+
+#: picture-gallery.php:461
+#, fuzzy
+msgid "Video Hosting"
+msgstr "Alojamiento de video"
+
+#: picture-gallery.php:470
+#, fuzzy
+msgid "Live Stream Hosting"
+msgstr "Alojamiento de transmisión en vivo"
+
+#: picture-gallery.php:479
+#, fuzzy
+msgid "Full Feature Plans"
+msgstr "Planes de funciones completas"
+
+#: picture-gallery.php:617 picture-gallery.php:1033
+msgid "Title"
+msgstr "Título"
+
+#: picture-gallery.php:621 picture-gallery.php:1403 picture-gallery.php:1503
+#: picture-gallery.php:2133
+msgid "Gallery"
+msgstr "Galería"
+
+#: picture-gallery.php:625
+msgid "Category ID"
+msgstr "ID de categoría"
+
+#: picture-gallery.php:629 picture-gallery.php:921 picture-gallery.php:965
+msgid "Order By"
+msgstr "Ordenar por"
+
+#: picture-gallery.php:631
+msgid "Date"
+msgstr "Fecha"
+
+#: picture-gallery.php:632 picture-gallery.php:898 picture-gallery.php:967
+#: picture-gallery.php:1033
+msgid "Views"
+msgstr "Vistas"
+
+#: picture-gallery.php:633
+#, fuzzy
+msgid "Recently Watched"
+msgstr "Visto recientemente"
+
+#: picture-gallery.php:636
+#, fuzzy
+msgid "Pictures per Page"
+msgstr "Imágenes por página"
+
+#: picture-gallery.php:640
+#, fuzzy
+msgid "Pictures per Row"
+msgstr "Imágenes por fila"
+
+#: picture-gallery.php:644
+msgid "Category Selector"
+msgstr "Selector de categoría: ¿Ocultar etiqueta adicional?"
+
+#: picture-gallery.php:650
+#, fuzzy
+msgid "Tags Selector"
+msgstr "Selector de etiquetas"
+
+#: picture-gallery.php:656
+#, fuzzy
+msgid "Name Selector"
+msgstr "Selector de nombres"
+
+#: picture-gallery.php:662
+#, fuzzy
+msgid "Order Selector"
+msgstr "Selector de pedidos"
+
+#: picture-gallery.php:668
+#, fuzzy
+msgid "Page Selector"
+msgstr "Selector de páginas"
+
+#: picture-gallery.php:674
+#, fuzzy
+msgid "Include CSS"
+msgstr "Incluir CSS"
+
+#: picture-gallery.php:876 picture-gallery.php:1399 picture-gallery.php:1495
+msgid "Category"
+msgstr "Categoría"
+
+#: picture-gallery.php:881 picture-gallery.php:885
+#, fuzzy
+msgid "Loading category"
+msgstr "Categoría de carga"
+
+#: picture-gallery.php:881
+msgid "All Categories"
+msgstr "Todas las categorias"
+
+#: picture-gallery.php:897
+#, fuzzy
+msgid "Added Recently"
+msgstr "Añadido recientemente"
+
+#: picture-gallery.php:899
+#, fuzzy
+msgid "Watched Recently"
+msgstr "Visto recientemente"
+
+#: picture-gallery.php:900 picture-gallery.php:978
+msgid "Random"
+msgstr "Aleatorio"
+
+#: picture-gallery.php:905 picture-gallery.php:910 picture-gallery.php:972
+msgid "Rating"
+msgstr "Clasificación"
+
+#: picture-gallery.php:906 picture-gallery.php:911 picture-gallery.php:973
+msgid "Ratings Number"
+msgstr "Número de clasificaciones"
+
+#: picture-gallery.php:907 picture-gallery.php:912 picture-gallery.php:974
+msgid "Rate Popularity"
+msgstr "Calificación popularidad"
+
+#: picture-gallery.php:910 picture-gallery.php:911 picture-gallery.php:912
+msgid "in Category"
+msgstr "en la categoría"
+
+#: picture-gallery.php:928
+#, fuzzy
+msgid "Ordering Rooms"
+msgstr "Ordenar habitaciones"
+
+#: picture-gallery.php:958
+msgid "All"
+msgstr "Todos"
+
+#: picture-gallery.php:966
+msgid "Date Added"
+msgstr "Fecha de adición"
+
+#: picture-gallery.php:968
+#, fuzzy
+msgid "Viewed Recently"
+msgstr "Visto recientemente"
+
+#: picture-gallery.php:988 picture-gallery.php:1418 picture-gallery.php:1514
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: picture-gallery.php:993
+msgid "Name"
+msgstr "Nombre"
+
+#: picture-gallery.php:1001
+msgid "Search"
+msgstr "Buscar"
+
+#: picture-gallery.php:1007
+msgid "Reload"
+msgstr "Recargar"
+
+#: picture-gallery.php:1033
+msgid "Age"
+msgstr "Edad"
+
+#: picture-gallery.php:1034
+msgid "views"
+msgstr "vistas"
+
+#: picture-gallery.php:1059
+msgid "EDIT"
+msgstr "EDITAR"
+
+#: picture-gallery.php:1085
+#, fuzzy
+msgid "No pictures."
+msgstr "Imágenes"
+
+#: picture-gallery.php:1093
+msgid "Previous"
+msgstr "Anterior"
+
+#: picture-gallery.php:1096
+msgid "Page"
+msgstr "Página"
+
+#: picture-gallery.php:1099
+msgid "Next"
+msgstr "Siguiente"
+
+#: picture-gallery.php:1359
+#, fuzzy
+msgid "Login is required to import pictures!"
+msgstr "¡Se requiere inicio de sesión para importar imágenes!"
+
+#: picture-gallery.php:1371 picture-gallery.php:1473 picture-gallery.php:2741
+#, fuzzy
+msgid "You do not have permissions to share pictures!"
+msgstr "¡No tienes permisos para compartir imágenes!"
+
+#: picture-gallery.php:1405
+#, fuzzy
+msgid "(comma separated)"
+msgstr "(separado por comas)"
+
+#: picture-gallery.php:1407 picture-gallery.php:1499
+msgid "gallery"
+msgstr "galería"
+
+#: picture-gallery.php:1420 picture-gallery.php:1516
+#, fuzzy
+msgid "Tag(s)"
+msgstr "Etiqueta(s)"
+
+#: picture-gallery.php:1426 picture-gallery.php:1428 picture-gallery.php:1522
+#: picture-gallery.php:1524
+msgid "Description"
+msgstr "Descripción"
+
+#: picture-gallery.php:1434
+#, fuzzy
+msgid "Import Pictures"
+msgstr "Importar imágenes"
+
+#: picture-gallery.php:1461
+#, fuzzy
+msgid "Login is required to upload pictures!"
+msgstr "¡Se requiere iniciar sesión para cargar imágenes!"
+
+#: picture-gallery.php:1501
+#, fuzzy
+msgid "Gallery(s)"
+msgstr "Galería(s)"
+
+#: picture-gallery.php:1549
+#, fuzzy
+msgid ""
+"or Drag & Drop files to this upload area<br>(select rest of options first)"
+msgstr ""
+"o arrastrar y soltar archivos a esta área de carga<br>(seleccione primero "
+"el resto de opciones)"
+
+#: picture-gallery.php:1555
+msgid "Upload Files"
+msgstr "Subir archivos"
+
+#: picture-gallery.php:1569
+#, fuzzy
+msgid "Picture Upload"
+msgstr "Carga de imágenes"
+
+#: picture-gallery.php:1569
+#, fuzzy
+msgid "Pictures to upload"
+msgstr "Imágenes para subir"
+
+#: picture-gallery.php:2128
+msgid "Channel"
+msgstr "Canal"
+
+#: picture-gallery.php:2145
+#, fuzzy
+msgid "Picture Views"
+msgstr "Vistas de imágenes"
+
+#: picture-gallery.php:2151
+#, fuzzy
+msgid "My Review"
+msgstr "Mi opinión"
+
+#: picture-gallery.php:2157
+msgid "Reviews"
+msgstr "Comentarios"
+
+#: picture-gallery.php:2848
+#, fuzzy
+msgid "Picture was submitted and is pending approval."
+msgstr "La imagen fue enviada y está pendiente de aprobación."
+
+#: picture-gallery.php:2850
+#, fuzzy
+msgid "Picture was published"
+msgstr "La imagen fue publicada"
+
+#: picture-gallery.php:2850
+#, fuzzy
+msgid "Thumbnail will be processed shortly."
+msgstr "La miniatura se procesará en breve."
+
+#: picture-gallery.php:2898
+#, fuzzy
+msgid "Update Thumbnail"
+msgstr "Actualizar miniatura"
+
+#: picture-gallery.php:3241
+msgid "Server"
+msgstr "Servidor"
+
+#: picture-gallery.php:3242
+msgid "Share"
+msgstr "Compartir"
+
+#: picture-gallery.php:3243
+msgid "Display"
+msgstr "Mostrar"
+
+#: picture-gallery.php:3244
+msgid "Access Control"
+msgstr "Control de acceso"
+
+#: picture-gallery.php:3255
+msgid "Server Configuration"
+msgstr "Configuración del servidor"
+
+#: picture-gallery.php:3257
+#, fuzzy
+msgid "Uploads Path"
+msgstr "Ruta de carga"
+
+#: picture-gallery.php:3258
+#, fuzzy
+msgid ""
+"Path where picture files will be stored. Make sure you use a location "
+"outside plugin folder to avoid losing files on updates and plugin "
+"uninstallation."
+msgstr ""
+"Ruta donde se almacenarán los archivos de imagen. Asegúrese de usar una "
+"ubicación fuera de la carpeta del complemento para evitar perder archivos "
+"en las actualizaciones y la desinstalación del complemento."
+
+#: picture-gallery.php:3311
+#, fuzzy
+msgid "Display &amp; Listings"
+msgstr "Display &amp; Listados"
+
+#: picture-gallery.php:3343
+#, fuzzy
+msgid "Default Pictures Per Page"
+msgstr "Imágenes predeterminadas por página"
+
+#: picture-gallery.php:3347
+msgid "Thumbnail Width"
+msgstr "Anchura de la miniatura"
+
+#: picture-gallery.php:3350
+msgid "Thumbnail Height"
+msgstr "Altura de la miniatura"
+
+#: picture-gallery.php:3403
+msgid "Custom CSS"
+msgstr "CSS personalizado"
+
+#: picture-gallery.php:3405
+#, fuzzy
+msgid ""
+"Styling used in elements added by this plugin. Should not include CSS "
+"container &lt;style type=&quot;text/css&quot;&gt; &lt;/style&gt; ."
+msgstr ""
+"Estilo utilizado en los elementos agregados por este complemento. No debe "
+"incluir el contenedor CSS &lt;style type=&quot;text/css&quot;&gt; &lt;/"
+"style&gt;."
+
+#: picture-gallery.php:3408
+#, fuzzy
+msgid "Show VideoWhisper Powered by"
+msgstr "Mostrar VideoWhisper Powered by"
+
+#: picture-gallery.php:3416
+#, fuzzy
+msgid "Show a mention that pictures were posted with VideoWhisper plugin.\n"
+msgstr ""
+"Muestre una mención de que las imágenes se publicaron con el complemento "
+"VideoWhisper.\n"
+
+#: picture-gallery.php:3427
+#, fuzzy
+msgid "Picture Sharing"
+msgstr "Compartir imágenes"
+
+#: picture-gallery.php:3429
+#, fuzzy
+msgid "Users allowed to share pictures"
+msgstr "Usuarios autorizados a compartir imágenes"
+
+#: picture-gallery.php:3431
+#, fuzzy
+msgid ""
+"Who can share pictures: comma separated Roles, user Emails, user ID numbers."
+msgstr ""
+"Quién puede compartir imágenes: roles separados por comas, correos "
+"electrónicos de usuario, números de ID de usuario."
+
+#: picture-gallery.php:3432 picture-gallery.php:3438
+#, fuzzy
+msgid "\"Guest\" will allow everybody including guests (unregistered users)."
+msgstr ""
+"\"Invitado\" permitirá a todos, incluidos los invitados (usuarios no "
+"registrados)."
+
+#: picture-gallery.php:3434
+#, fuzzy
+msgid "Users allowed to directly publish pictures"
+msgstr "Usuarios autorizados a publicar imágenes directamente"
+
+#: picture-gallery.php:3436
+#, fuzzy
+msgid "Users not in this list will add pictures as \"pending\"."
+msgstr ""
+"Los usuarios que no están en esta lista agregarán imágenes como \"pendientes"
+"\"."
+
+#: picture-gallery.php:3437
+#, fuzzy
+msgid ""
+"Who can publish pictures: comma separated Roles, user Emails, user ID "
+"numbers."
+msgstr ""
+"Quién puede publicar imágenes: roles separados por comas, correos "
+"electrónicos de usuario, números de ID de usuario."
+
+#: template-picture.php:48
+msgid "We couldn't find any posts that matched your query. Please try again."
+msgstr ""
+"No pudimos encontrar ninguna publicación que coincida con su consulta. "
+"Inténtalo de nuevo."

@@ -1,0 +1,523 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: VideoWhisper Picture Gallery\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: VideoWhisper.com <submit.ticket@videowhisper.com>\n"
+"Language-Team: VideoWhisper.com <submit.ticket@videowhisper.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: picture-gallery.php:59 picture-gallery.php:73 picture-gallery.php:81
+#: picture-gallery.php:1911
+msgid "Pictures"
+msgstr ""
+
+#: picture-gallery.php:60
+msgid "Parent Picture:"
+msgstr ""
+
+#: picture-gallery.php:61
+msgid "All Pictures"
+msgstr ""
+
+#: picture-gallery.php:62
+msgid "View Picture"
+msgstr ""
+
+#: picture-gallery.php:63
+msgid "Add New Picture"
+msgstr ""
+
+#: picture-gallery.php:64
+msgid "New Picture"
+msgstr ""
+
+#: picture-gallery.php:65
+msgid "Edit Picture"
+msgstr ""
+
+#: picture-gallery.php:66
+msgid "Update Picture"
+msgstr ""
+
+#: picture-gallery.php:67
+msgid "Search Pictures"
+msgstr ""
+
+#: picture-gallery.php:68
+msgid "No Pictures found"
+msgstr ""
+
+#: picture-gallery.php:69
+msgid "No Pictures found in Trash"
+msgstr ""
+
+#: picture-gallery.php:72
+msgid "New picture added"
+msgstr ""
+
+#: picture-gallery.php:74
+#, php-format
+msgid "%1$s added a new <a href=\"%2$s\">picture</a>"
+msgstr ""
+
+#: picture-gallery.php:75
+#, php-format
+msgid "%1$s added a new <a href=\"%2$s\">picture</a>, on the site %3$s"
+msgstr ""
+
+#: picture-gallery.php:80
+msgid "picture"
+msgstr ""
+
+#: picture-gallery.php:118
+msgid "Search Galleries"
+msgstr ""
+
+#: picture-gallery.php:119
+msgid "All Galleries"
+msgstr ""
+
+#: picture-gallery.php:120
+msgid "Parent Gallery"
+msgstr ""
+
+#: picture-gallery.php:121
+msgid "Parent Gallery:"
+msgstr ""
+
+#: picture-gallery.php:122
+msgid "Edit Gallery"
+msgstr ""
+
+#: picture-gallery.php:123
+msgid "Update Gallery"
+msgstr ""
+
+#: picture-gallery.php:124
+msgid "Add New Gallery"
+msgstr ""
+
+#: picture-gallery.php:125
+msgid "New Gallery Name"
+msgstr ""
+
+#: picture-gallery.php:126
+msgid "Galleries"
+msgstr ""
+
+#: picture-gallery.php:374
+msgid "Add Plugins"
+msgstr ""
+
+#: picture-gallery.php:383
+msgid "Contact Support"
+msgstr ""
+
+#: picture-gallery.php:404 picture-gallery.php:494
+msgid "Settings"
+msgstr ""
+
+#: picture-gallery.php:413 picture-gallery.php:1906
+msgid "Upload"
+msgstr ""
+
+#: picture-gallery.php:422 picture-gallery.php:1904
+msgid "Import"
+msgstr ""
+
+#: picture-gallery.php:431
+msgid "Manage"
+msgstr ""
+
+#: picture-gallery.php:440
+msgid "Documentation"
+msgstr ""
+
+#: picture-gallery.php:449
+msgid "Discuss WP Plugin"
+msgstr ""
+
+#: picture-gallery.php:458
+msgid "Review WP Plugin"
+msgstr ""
+
+#: picture-gallery.php:467
+msgid "Video Hosting"
+msgstr ""
+
+#: picture-gallery.php:476
+msgid "Live Stream Hosting"
+msgstr ""
+
+#: picture-gallery.php:485
+msgid "Full Feature Plans"
+msgstr ""
+
+#: picture-gallery.php:623 picture-gallery.php:1039
+msgid "Title"
+msgstr ""
+
+#: picture-gallery.php:627 picture-gallery.php:1411 picture-gallery.php:1513
+#: picture-gallery.php:2144
+msgid "Gallery"
+msgstr ""
+
+#: picture-gallery.php:631
+msgid "Category ID"
+msgstr ""
+
+#: picture-gallery.php:635 picture-gallery.php:927 picture-gallery.php:971
+msgid "Order By"
+msgstr ""
+
+#: picture-gallery.php:637
+msgid "Date"
+msgstr ""
+
+#: picture-gallery.php:638 picture-gallery.php:904 picture-gallery.php:973
+#: picture-gallery.php:1039
+msgid "Views"
+msgstr ""
+
+#: picture-gallery.php:639
+msgid "Recently Watched"
+msgstr ""
+
+#: picture-gallery.php:642
+msgid "Pictures per Page"
+msgstr ""
+
+#: picture-gallery.php:646
+msgid "Pictures per Row"
+msgstr ""
+
+#: picture-gallery.php:650
+msgid "Category Selector"
+msgstr ""
+
+#: picture-gallery.php:656
+msgid "Tags Selector"
+msgstr ""
+
+#: picture-gallery.php:662
+msgid "Name Selector"
+msgstr ""
+
+#: picture-gallery.php:668
+msgid "Order Selector"
+msgstr ""
+
+#: picture-gallery.php:674
+msgid "Page Selector"
+msgstr ""
+
+#: picture-gallery.php:680
+msgid "Include CSS"
+msgstr ""
+
+#: picture-gallery.php:882 picture-gallery.php:1407 picture-gallery.php:1505
+msgid "Category"
+msgstr ""
+
+#: picture-gallery.php:887 picture-gallery.php:891
+msgid "Loading category"
+msgstr ""
+
+#: picture-gallery.php:887
+msgid "All Categories"
+msgstr ""
+
+#: picture-gallery.php:903
+msgid "Added Recently"
+msgstr ""
+
+#: picture-gallery.php:905
+msgid "Watched Recently"
+msgstr ""
+
+#: picture-gallery.php:906 picture-gallery.php:984
+msgid "Random"
+msgstr ""
+
+#: picture-gallery.php:911 picture-gallery.php:916 picture-gallery.php:978
+msgid "Rating"
+msgstr ""
+
+#: picture-gallery.php:912 picture-gallery.php:917 picture-gallery.php:979
+msgid "Ratings Number"
+msgstr ""
+
+#: picture-gallery.php:913 picture-gallery.php:918 picture-gallery.php:980
+msgid "Rate Popularity"
+msgstr ""
+
+#: picture-gallery.php:916 picture-gallery.php:917 picture-gallery.php:918
+msgid "in Category"
+msgstr ""
+
+#: picture-gallery.php:934
+msgid "Ordering Rooms"
+msgstr ""
+
+#: picture-gallery.php:964
+msgid "All"
+msgstr ""
+
+#: picture-gallery.php:972
+msgid "Date Added"
+msgstr ""
+
+#: picture-gallery.php:974
+msgid "Viewed Recently"
+msgstr ""
+
+#: picture-gallery.php:994 picture-gallery.php:1426 picture-gallery.php:1524
+msgid "Tags"
+msgstr ""
+
+#: picture-gallery.php:999
+msgid "Name"
+msgstr ""
+
+#: picture-gallery.php:1007
+msgid "Search"
+msgstr ""
+
+#: picture-gallery.php:1013
+msgid "Reload"
+msgstr ""
+
+#: picture-gallery.php:1039
+msgid "Age"
+msgstr ""
+
+#: picture-gallery.php:1040
+msgid "views"
+msgstr ""
+
+#: picture-gallery.php:1065
+msgid "EDIT"
+msgstr ""
+
+#: picture-gallery.php:1091
+msgid "No pictures."
+msgstr ""
+
+#: picture-gallery.php:1099
+msgid "Previous"
+msgstr ""
+
+#: picture-gallery.php:1102
+msgid "Page"
+msgstr ""
+
+#: picture-gallery.php:1105
+msgid "Next"
+msgstr ""
+
+#: picture-gallery.php:1367
+msgid "Login is required to import pictures!"
+msgstr ""
+
+#: picture-gallery.php:1379 picture-gallery.php:1483 picture-gallery.php:2807
+msgid "You do not have permissions to share pictures!"
+msgstr ""
+
+#: picture-gallery.php:1413
+msgid "(comma separated)"
+msgstr ""
+
+#: picture-gallery.php:1415 picture-gallery.php:1509
+msgid "gallery"
+msgstr ""
+
+#: picture-gallery.php:1428 picture-gallery.php:1526
+msgid "Tag(s)"
+msgstr ""
+
+#: picture-gallery.php:1434 picture-gallery.php:1436 picture-gallery.php:1532
+#: picture-gallery.php:1534
+msgid "Description"
+msgstr ""
+
+#: picture-gallery.php:1442
+msgid "Import Pictures"
+msgstr ""
+
+#: picture-gallery.php:1469
+msgid "Login is required to upload pictures!"
+msgstr ""
+
+#: picture-gallery.php:1511
+msgid "Gallery(s)"
+msgstr ""
+
+#: picture-gallery.php:1559
+msgid ""
+"or Drag & Drop files to this upload area<br>(select rest of options first)"
+msgstr ""
+
+#: picture-gallery.php:1565
+msgid "Upload Files"
+msgstr ""
+
+#: picture-gallery.php:1579
+msgid "Picture Upload"
+msgstr ""
+
+#: picture-gallery.php:1579
+msgid "Pictures to upload"
+msgstr ""
+
+#: picture-gallery.php:1894
+msgid "Manage Pictures"
+msgstr ""
+
+#: picture-gallery.php:2139
+msgid "Channel"
+msgstr ""
+
+#: picture-gallery.php:2155
+msgid "Picture Views"
+msgstr ""
+
+#: picture-gallery.php:2157
+msgid "Resolution"
+msgstr ""
+
+#: picture-gallery.php:2164
+msgid "My Review"
+msgstr ""
+
+#: picture-gallery.php:2170
+msgid "Reviews"
+msgstr ""
+
+#: picture-gallery.php:2333
+msgid "posted a new picture"
+msgstr ""
+
+#: picture-gallery.php:2914
+msgid "Picture was submitted and is pending approval."
+msgstr ""
+
+#: picture-gallery.php:2916
+msgid "Picture was published"
+msgstr ""
+
+#: picture-gallery.php:2916
+msgid "Thumbnail will be processed shortly."
+msgstr ""
+
+#: picture-gallery.php:2962
+msgid "Update Picture Info"
+msgstr ""
+
+#: picture-gallery.php:2964
+msgid "Update Thumbnail"
+msgstr ""
+
+#: picture-gallery.php:3311
+msgid "Server"
+msgstr ""
+
+#: picture-gallery.php:3312
+msgid "Share"
+msgstr ""
+
+#: picture-gallery.php:3313
+msgid "Display"
+msgstr ""
+
+#: picture-gallery.php:3314
+msgid "Access Control"
+msgstr ""
+
+#: picture-gallery.php:3325
+msgid "Server Configuration"
+msgstr ""
+
+#: picture-gallery.php:3327
+msgid "Uploads Path"
+msgstr ""
+
+#: picture-gallery.php:3328
+msgid ""
+"Path where picture files will be stored. Make sure you use a location "
+"outside plugin folder to avoid losing files on updates and plugin "
+"uninstallation."
+msgstr ""
+
+#: picture-gallery.php:3383
+msgid "Display &amp; Listings"
+msgstr ""
+
+#: picture-gallery.php:3415
+msgid "Default Pictures Per Page"
+msgstr ""
+
+#: picture-gallery.php:3419
+msgid "Thumbnail Width"
+msgstr ""
+
+#: picture-gallery.php:3422
+msgid "Thumbnail Height"
+msgstr ""
+
+#: picture-gallery.php:3480
+msgid ""
+"Styling used in elements added by this plugin. Should not include CSS "
+"container &lt;style type=&quot;text/css&quot;&gt; &lt;/style&gt; ."
+msgstr ""
+
+#: picture-gallery.php:3489
+msgid "Show VideoWhisper Powered by"
+msgstr ""
+
+#: picture-gallery.php:3497
+msgid "Show a mention that pictures were posted with VideoWhisper plugin.\n"
+msgstr ""
+
+#: picture-gallery.php:3508
+msgid "Picture Sharing"
+msgstr ""
+
+#: picture-gallery.php:3510
+msgid "Users allowed to share pictures"
+msgstr ""
+
+#: picture-gallery.php:3512
+msgid ""
+"Who can share pictures: comma separated Roles, user Emails, user ID numbers."
+msgstr ""
+
+#: picture-gallery.php:3513 picture-gallery.php:3519
+msgid "\"Guest\" will allow everybody including guests (unregistered users)."
+msgstr ""
+
+#: picture-gallery.php:3515
+msgid "Users allowed to directly publish pictures"
+msgstr ""
+
+#: picture-gallery.php:3517
+msgid "Users not in this list will add pictures as \"pending\"."
+msgstr ""
+
+#: picture-gallery.php:3518
+msgid ""
+"Who can publish pictures: comma separated Roles, user Emails, user ID "
+"numbers."
+msgstr ""
+
+#: template-picture.php:48
+msgid "We couldn't find any posts that matched your query. Please try again."
+msgstr ""
